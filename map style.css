@@ -1,0 +1,39 @@
+.topnav {
+    position: fixed;
+    background-color:aliceblue;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+  
+ 
+  .topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 20px 135px;
+    
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #d4e9ff;
+    color: black;
+  }
+  
+  
+  .topnav a.active {
+    background-color: #7b7b7b;
+    color: white;
+  }
+
+  .map{
+    top:10%;
+    padding-top: 60px;
+  }
